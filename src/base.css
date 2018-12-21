@@ -1,0 +1,9 @@
+
+.banner {
+  border-bottom: 1px solid #e4e4e4;
+}
+
+.banner .nav li {
+  display: inline-block;
+  margin-right: 1em;
+}
